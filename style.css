@@ -45,17 +45,14 @@
 }
 .item1{
     flex-basis: 25%;
-    border: 2px solid rgb(88, 88, 88);
     padding: 10px;
 }
 .item2{
     flex-basis: 25%;
-    border: 2px solid rgb(88, 88, 88);
     padding: 10px;
 }
 .item3{
     flex-basis: 25%;
-    border: 2px solid rgb(88, 88, 88);
     padding: 10px;
 }
 .item1 img{
@@ -71,7 +68,7 @@
 .container1{
     display: flex;
     width: 80%;
-    margin-left: 10%;
+    margin-left: 20%;
     margin-top: 200px;
     /* background-color: aquamarine; */
     justify-content: space-between;
@@ -79,17 +76,14 @@
 }
 .con1-item1{
     flex-basis: 30%;
-    border: 2px solid rgb(88, 88, 88);
     padding: 10px;
 }
 .con1-item2{
     flex-basis: 30%;
-    border: 2px solid rgb(88, 88, 88);
     padding: 10px;
 }
 .con1-item3{
     flex-basis: 30%;
-    border: 2px solid rgb(88, 88, 88);
     padding: 10px;
 }
 .con1-item1 .icons{
@@ -110,4 +104,19 @@
     width: 80%;
     text-align: center;
     margin-top: 180px;
+}
+.part1 button{
+    background-color: tomato;
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    width: 86px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    color:azure;
+    margin-top: 20px;
+}
+.copyright{
+    width: 80%;
 }
